@@ -222,7 +222,5 @@ public class Main {
         System.out.print(tab[i]+" ");
     }
 */   
-   
-    
     }
 }
